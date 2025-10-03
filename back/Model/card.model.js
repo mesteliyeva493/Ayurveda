@@ -5,4 +5,4 @@ const CardSchema=require('../Schemas/card.schemas')
 const CardModel=mongoose.model('card',CardSchema)
 
 
-module.exports=CardModel  
+module.exports=CardModel
